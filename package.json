@@ -1,0 +1,20 @@
+{
+  "name": "pokedex",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aura",
+  "license": "ISC",
+  "dependencies": {
+    "browserify": "^17.0.0",
+    "node-fetch": "^3.1.0",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "description": "pokedex app",
+  "keywords": [
+    "pokemon"
+  ]
+}
